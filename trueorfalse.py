@@ -1,5 +1,6 @@
 # Quiz Program: True/False Only
 
+
 def true_false_question(question, correct_answer):
     print("\nTrue/False Question:")
     print(question)
